@@ -1,6 +1,5 @@
-- 👋 Hi, Nickname is dip000
-- 👀 I’m interested in art and tecnology
-- 🌱 I’m currently learning IoT
+- 👋 Hi, Nickname's dip000
+- 👀 I’m interested in hardware and software
 
 <!---
 
